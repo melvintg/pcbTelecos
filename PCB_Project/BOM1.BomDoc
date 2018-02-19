@@ -1,0 +1,30 @@
+|RECORD=BOM|FILENAME=C:\Users\melvintg\Dropbox\Proyectos IEEE\Copybit\PCB_Project\BOM1.$$$|KIND=ALTIUM_DESIGNER_LIVEBOM|VERSION=1.00|DATE=14/03/2017|TIME=19:10:09|CURRENCY=USD
+|RECORD=GeneralOptions|BATCHMODE=5|SUPPLIERPRODQTY=10|SUPPLIERAUTOQTY=TRUE|SUPPLIERUSECACHEDPRICING=TRUE|SUPPLIERCURRENCY=
+|RECORD=SortOrderOptions|SORTORDER=Description=Up!Designator=Up
+|RECORD=GroupOrderOptions
+|RECORD=VisibleOrderOptions|VISIBLEORDER=ItemType=100!DesignItemId=200!Description=300!Designator=500!Comment=200!Quantity=70
+|RECORD=FilterOptions|FILTER=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+|RECORD=CheckGroupCompParamsOptions|CHECKGROUPCOMPPARAMS=Comment=0,Value=0,Description=0,Footprint=1
+|RECORD=Catalog|DBLINKFILEPATH=
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=LIBEBAL.IntLib\CAPPOL|USERCOMMENTS=CAPPOL|NOTE=|SELECTEDPARAMETERSHASH=CAPPOL,10uF,|COMPONENTPARAMETERS=Comment=CAPPOL,"Component Kind=Standard",Description=,Footprint=CAP100RP,"Ibis Model=","Library Name=LIBEBAL.IntLib","Library Reference=CAPPOL",PCB3D=,"Signal Integrity=",Simulation=,Value=10uF|DESIGNITEMID=CAPPOL
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=LIBEBAL.IntLib\CAPPOL|USERCOMMENTS=CAPPOL|NOTE=|SELECTEDPARAMETERSHASH=CAPPOL,22uF,|COMPONENTPARAMETERS=Comment=CAPPOL,"Component Kind=Standard",Description=,Footprint=CAP100RP,"Ibis Model=","Library Name=LIBEBAL.IntLib","Library Reference=CAPPOL",PCB3D=,"Signal Integrity=",Simulation=,Value=22uF|DESIGNITEMID=CAPPOL
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=LIBEBAL.IntLib\BORNERA 3|USERCOMMENTS=HEADER 3|NOTE=|SELECTEDPARAMETERSHASH="HEADER 3",Value,|COMPONENTPARAMETERS="Comment=HEADER 3","Component Kind=Standard",Description=,Footprint=BORNERA3,"Ibis Model=","Library Name=LIBEBAL.IntLib","Library Reference=BORNERA 3",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=BORNERA 3
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=LIBEBAL.IntLib\BORNERA 2|USERCOMMENTS=HEADER 2|NOTE=|SELECTEDPARAMETERSHASH="HEADER 2",Value,|COMPONENTPARAMETERS="Comment=HEADER 2","Component Kind=Standard",Description=,Footprint=BORNERA2,"Ibis Model=","Library Name=LIBEBAL.IntLib","Library Reference=BORNERA 2",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=BORNERA 2
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\BANANA|DESCRIPTION=Female Connector|USERCOMMENTS=BANANA|NOTE=|SELECTEDPARAMETERSHASH=BANANA,Value,"Female Connector"|COMPONENTPARAMETERS=Comment=BANANA,"Component Kind=Standard","Description=Female Connector",Footprint=,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=BANANA",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=BANANA
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\JACK_AUDIO|DESCRIPTION=Female Connector|USERCOMMENTS=JACK_AUDIO|NOTE=|SELECTEDPARAMETERSHASH=JACK_AUDIO,Value,"Female Connector"|COMPONENTPARAMETERS=Comment=JACK_AUDIO,"Component Kind=Standard","Description=Female Connector",Footprint=,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=JACK_AUDIO",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=JACK_AUDIO
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\USB Micro-B|DESCRIPTION=Female Connector|USERCOMMENTS=USB Micro-B|NOTE=|SELECTEDPARAMETERSHASH="USB Micro-B",Value,"Female Connector"|COMPONENTPARAMETERS="Comment=USB Micro-B","Component Kind=Standard","Description=Female Connector",Footprint=,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=USB Micro-B",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=USB Micro-B
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\BNC|DESCRIPTION=Male Connector|USERCOMMENTS=BNC|NOTE=|SELECTEDPARAMETERSHASH=BNC,Value,"Male Connector"|COMPONENTPARAMETERS=Comment=BNC,"Component Kind=Standard","Description=Male Connector",Footprint=,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=BNC",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=BNC
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=LIBEBAL.IntLib\JACKDC|USERCOMMENTS=JACKDC|NOTE=|SELECTEDPARAMETERSHASH=JACKDC,Value,|COMPONENTPARAMETERS=Comment=JACKDC,"Component Kind=Standard",Description=,Footprint=JACKDC,"Ibis Model=","Library Name=LIBEBAL.IntLib","Library Reference=JACKDC",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=JACKDC
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItem|ITEMTYPE=Automatic-NonVault|UNIQUEID=Schlib1.SchLib\AMS1117|DESCRIPTION=Voltage Regulator|USERCOMMENTS=AMS1117|NOTE=|SELECTEDPARAMETERSHASH=AMS1117,Value,"Voltage Regulator"|COMPONENTPARAMETERS=Comment=AMS1117,"Component Kind=Standard","Description=Voltage Regulator",Footprint=,"Ibis Model=","Library Name=Schlib1.SchLib","Library Reference=AMS1117",PCB3D=,"Signal Integrity=",Simulation=|DESIGNITEMID=AMS1117
+|RECORD=PartChoiceGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=0
+|RECORD=CatalogItemGroups|GROUPSORTORDER=Ascending|GROUPBYFIELDCOUNT=1|GROUPBYFIELD1=Item Type
+|RECORD=CatalogItemGroup|GROUPNAME=Core-UnManaged|ITEMCOUNT=10|ITEM1=Schlib1.SchLib\AMS1117|ITEM2=Schlib1.SchLib\BANANA|ITEM3=Schlib1.SchLib\BNC|ITEM4=LIBEBAL.IntLib\BORNERA 2|ITEM5=LIBEBAL.IntLib\BORNERA 3|ITEM6=LIBEBAL.IntLib\CAPPOL|ITEM7=LIBEBAL.IntLib\CAPPOL|ITEM8=Schlib1.SchLib\JACK_AUDIO|ITEM9=LIBEBAL.IntLib\JACKDC|ITEM10=Schlib1.SchLib\USB Micro-B|GROUPEXPANDED=TRUE
